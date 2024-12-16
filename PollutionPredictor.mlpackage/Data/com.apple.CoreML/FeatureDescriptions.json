@@ -1,0 +1,45 @@
+{
+  "Inputs" : {
+    "CO" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Pollution Tolerance Index" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Density" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "NO2" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "SO2" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Temperature" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "PM10" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "PM2.5" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Humidity" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "Outputs" : {
+    "classProbability" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "classLabel" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "TrainingInputs" : {
+
+  },
+  "States" : {
+
+  }
+}

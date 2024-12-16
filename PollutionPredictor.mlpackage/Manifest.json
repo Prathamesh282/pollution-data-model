@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "183148F3-9375-46BD-9D6D-6259AB538A93": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "PollutionPredictor.mlmodel",
+            "path": "com.apple.CoreML/PollutionPredictor.mlmodel"
+        },
+        "6960B0A2-7586-44BD-9334-73C8EE105F75": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "B0B068D9-8D14-4B62-8711-79BB32899DB8": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "183148F3-9375-46BD-9D6D-6259AB538A93"
+}
